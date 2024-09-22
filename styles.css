@@ -29,6 +29,10 @@ nav a {
     text-decoration: none;
 }
 
+a:hover {
+    color: 007d7b;
+}
+
 ul {
     list-style-type: none;
     text-align: left;
